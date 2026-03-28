@@ -1,0 +1,13 @@
+[
+  {"name": "Android 9 Pie", "version": "9.0-r2", "brand": "Generic", "size": "920MB", "type": "iso", "iso_url": "https://yer.dl.sourceforge.net/project/android-x86/Release%209.0/android-x86_64-9.0-r2-k49.iso?viasf=1ZX "},
+  {"name": "Android 8.1 Oreo", "version": "8.1-r6", "brand": "Generic", "size": "850MB", "type": "iso", "iso_url": "https://dn720706.ca.archive.org/0/items/sjarb_android_8.1r3/android-x86-8.1-r3.iso"},
+  {"name": "Android 7.1 Nougat", "version": "7.1-r5", "brand": "Generic", "size": "750MB", "type": "iso", "iso_url": "https://dn721808.ca.archive.org/0/items/sjarb_android_7.1RC2/android-x86-7.1-rc2.iso"},
+  {"name": "Android 6.0 Marshmallow", "version": "6.0-r3", "brand": "Generic", "size": "680MB", "type": "iso", "iso_url": "https://dn721907.ca.archive.org/0/items/sjarb_android_6.0r1/android-x86-6.0-r1.iso"},
+  {"name": "Android 5.1 Lollipop", "version": "5.1-r1", "brand": "Generic", "size": "550MB", "type": "iso", "iso_url": "https://yer.dl.sourceforge.net/project/android-x86/Release%205.1/android-x86-5.1-rc1.iso?viasf=1"},
+  {"name": "Android 4.4 KitKat", "version": "4.4-r5", "brand": "Generic", "size": "450MB", "type": "iso", "iso_url": "https://netix.dl.sourceforge.net/project/android-x86/Release%201.6-r2/android-x86-1.6-r2.iso?viasf=1"},
+
+  {"name": "Bliss OS 11 (Android 9)", "version": "9.0", "brand": "Bliss", "size": "1.5GB", "type": "iso", "iso_url": "https://dn720702.ca.archive.org/0/items/bliss-v-11x-android9-x86_64/Bliss-v11.14--OFFICIAL-20210507-2246_x86_64_k-google-5.10.32-lts-pledge-xanmod_m-20.1.10_pie-x86_dgc-p9.0-11.13_ld-p9.0-x86_dg-_dh-blueprint_pie-x86_w45_2020_mg-p9.0-x86.iso"}
+]
+
+
+

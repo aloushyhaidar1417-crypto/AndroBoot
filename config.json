@@ -1,0 +1,34 @@
+{
+    "active_profile_id": 0,
+    "profiles": [
+        {
+            "name": "Default User",
+            "ram": 8043,
+            "cpu_cores": 8,
+            "storage_gb": 16,
+            "custom_isos": [
+                {
+                    "name": "Android_9_(Stable).iso",
+                    "path": "C:/Users/MyLaptop/Desktop/111/images/Android_9_(Stable).iso"
+                }
+            ],
+            "perf_mode": "Balanced",
+            "resolution": "1280x720",
+            "installed_games": [],
+            "projects_dir": "",
+            "auto_sync": true,
+            "preferred_engine": "Auto"
+        }
+    ],
+    "dark_mode": true,
+    "custom_isos": [
+        {
+            "name": "Android_9_(Stable).iso",
+            "path": "C:/Users/MyLaptop/Desktop/111/images/Android_9_(Stable).iso"
+        },
+        {
+            "name": "android-x86-1.6-r2.iso",
+            "path": "C:/Users/MyLaptop/Desktop/111/images/android-x86-1.6-r2.iso"
+        }
+    ]
+}
